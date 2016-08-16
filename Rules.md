@@ -1,6 +1,6 @@
 # Hackathon Rules
 
-These are standard competition rules used at MLH Member Hackathons. Not all MLH Member Hackathons will use these rules as organizers can choose to use these or their own rules. Organizers can use these rules exactly or fork them and edit them to suit their needs. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/MLH/hackathon-rules/issues).
+This is a fork of standard competition rules used at MLH Member Hackathons. We have edited the rules a bit. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/SDHacks/hackathon-rules/issues).
 
 
 ## The spirit of the competition
@@ -10,10 +10,10 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 ## The rules of the competition
 
-1. There is no maximum or minimum team size. But make sure to check how many prizes are available per team. If a large team wins a challenge, there might not be enough prizes for everyone.
-2. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. 
+1. The maximum team size is 4 people.
+2. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, mentors, judges, sponsors, or in any other privileged position at the event. 
 3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
-4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
+4. Teams can gain advice and support from organizers, volunteers, sponsors, and others.
 5. All work on a project should be done at the hackathon.
 6. Teams can use an idea they had before the event.
 7. Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to work on a common idea they should be allowed to do so and should be judged on the quality of their hack. These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.
@@ -31,12 +31,12 @@ After hacking finishes, teams will show their projects each other and to the jud
 
 You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged. You are not judged on the quality of your pitch or the quality of your idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
 
-You are encouraged to present what you have done even if yout hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! For being courageous enough to demo, you'll receive a special MLH "I Demoed" sticker—it doesn't matter how good the demo is! In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
+You are encouraged to exhibit what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! For being courageous enough to demo, you'll receive a special MLH "I Demoed" sticker—it doesn't matter how good the demo is! In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
 
 
 ## Judging Criteria
 
-Teams will be judged on these four criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project. 
+This only applies to the general event, not to sponsor prizes or other challenges. Teams will be judged on these four criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project. 
 
 - __Technology:__ How technically impressive was the hack? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go "Wow"?
 - __Design:__ Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?). 
@@ -59,4 +59,4 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!
 
-Happy Hacking from the MLH team!
+Happy Hacking from SD Hacks & the MLH team!
