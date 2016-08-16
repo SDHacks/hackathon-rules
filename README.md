@@ -1,6 +1,6 @@
 # Hackathon Rules
 
-These are standard competition rules used at MLH Member Hackathons. Not all MLH Member Hackathons will use these rules as organizers can choose to use these or their own rules. Organizers can use these rules exactly or fork them and edit them to suit their needs. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/MLH/hackathon-rules/issues).
+This is a fork of standard competition rules used at MLH Member Hackathons. We have edited the rules a bit. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/SDHacks/hackathon-rules/issues).
 
 There are several documents in the _Hackathon Rules_:
 
